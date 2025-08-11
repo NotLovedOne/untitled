@@ -4,7 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Fibonacci of 6: " + new Main().fibonacci(6));
+        System.out.println("Fibonacci of 8: " + new Main().fibonacci(8));
     }
 
     public int fibonacci(int n) {
